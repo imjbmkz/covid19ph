@@ -8,11 +8,11 @@ This workbook contains 8 sheets (including READ ME! tab).
 2. Progressive Capstone has all the essay answers to the weekly progressive capstone activities in the course.
 3. Charts Backbone is the sheet where all my helper cells for the charts are found.
 4. Week 1 to 4 worksheets have all the data visuals for this capstone project.
-  4.1 week1	Overview of Data Visualization[1]
-  4.2 week2	Charts and Graphs by Type of Story (Composition and Comparison)
-  4.3 week3	Charts and Graphs by Type of Story (Distribution and Relationship)
-  4.4 week4	Chart Design Principles and Data Visualization Ethics
-  4.5 week5	
+  * 4.1 week1	Overview of Data Visualization[1]
+  * 4.2 week2	Charts and Graphs by Type of Story (Composition and Comparison)
+  * 4.3 week3	Charts and Graphs by Type of Story (Distribution and Relationship)
+  * 4.4 week4	Chart Design Principles and Data Visualization Ethics
+  * 4.5 week5	Final Data Visualization
 5. I used Excel for Office 365. In the final output, in sheet week5, I used some features which may not be available to older
     versions, particularly, histograms (available only as an add-in), and map chart. Should you have any problems viewing my
     final output, go to my GitHub repository[2].
